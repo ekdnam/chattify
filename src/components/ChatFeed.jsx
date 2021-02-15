@@ -1,4 +1,4 @@
-import MessageForm from "./MessageForm";
+// import MessageForm from "./MessageForm";
 import MyMessage from "./MyMessage";
 import TheirMessage from "./TheirMessage";
 
@@ -66,9 +66,9 @@ const ChatFeed = (props) => {
       </div>
       {renderMessages()}
       <div style={{ height: "100px" }} />
-      <div className="message-form-container">
+      {/* <div className="message-form-container">
         <MessageForm {...props} chatID={activeChat} />
-      </div>
+      </div> */}
     </div>
   );
 };
