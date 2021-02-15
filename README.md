@@ -4,6 +4,8 @@
 
 A chatting application built with React.
 
+You can check out the site live at [chattify.netlify.app](https://chattify.netlify.app).
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
